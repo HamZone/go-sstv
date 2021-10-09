@@ -1,3 +1,6 @@
+参考调制：https://zh.wikipedia.org/wiki/%E6%85%A2%E6%89%AB%E6%8F%8F%E7%94%B5%E8%A7%86
+
+以下为原 Repo 内容
 go SSTV
 =======
 
